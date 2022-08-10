@@ -1,6 +1,12 @@
 # 91PORN-Dplayer
 ## 替换91Porn播放器并添加一键导出命令复制
 
+# 安装(浏览器需要安装[Tampermonkey](https://tampermonkey.net/) 或 [Violentmonkey](https://violentmonkey.github.io/))
+| 点击下方安装 |
+| ------ |
+| [安装](https://github.com/gqcdm/91PORN-Dplayer/raw/main/91porn%E6%92%AD%E6%94%BE%E5%99%A8%E6%9B%BF%E6%8D%A2.user.js) |
+
+
 # 感谢:
 [91porn去广告+支持弹幕](https://sleazyfork.org/zh-CN/scripts/427514-91porn%E5%8E%BB%E5%B9%BF%E5%91%8A-%E6%94%AF%E6%8C%81%E5%BC%B9%E5%B9%95)  
 
